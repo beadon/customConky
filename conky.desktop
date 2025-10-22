@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=conky --daemonize --pause=5
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=conky
+Name=conky
+Comment[en_US]=Conky startup for the stylish dashboard
+Comment=Conky startup for the background dashboard
